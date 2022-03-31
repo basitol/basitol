@@ -1,6 +1,6 @@
 # basitol
 
 - 👋 Hi, I’m Abdulbasit
-- 👀 I’m interested in learning Nodejs, Flutter and typescript
-- 🌱 I’m currently learning React JS
+- 👀 I’m interested in learning Nodejs and Flutter
+- 🌱 I’ve learnt React JS and typescript
 - 📫 How to reach me basitolaitan27@gmail.com
